@@ -1,2 +1,3 @@
 # Deepracer1
-Deepracer using machinelearing using python
+AWS deepracer student league 
+MachineLearning using python 
